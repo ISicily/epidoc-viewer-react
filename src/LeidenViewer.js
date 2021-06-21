@@ -2,7 +2,7 @@ import React, {useEffect} from 'react';
 import { Box } from '@material-ui/core';
 import LeidenPopup from './LeidenPopup'
 
-import convert from './convert'
+import {convert} from '@isicily/epidoc-viewer-core'
 
 const LeidenViewer = ({tei, showInterpreted, overridingRules}) => { 
     let referenceToEpidocDiv;

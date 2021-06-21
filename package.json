@@ -40,6 +40,6 @@
     "@babel/preset-react": "^7.13.13"
   },
   "dependencies": {
-    "@isicily/epidoc-viewer-core": "^1.0.4"
+    "@isicily/epidoc-viewer-core": "^1.0.5"
   }
 }

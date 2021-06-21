@@ -1,6 +1,6 @@
 {
   "name": "@isicily/epidoc-viewer-react",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "exports a react component for converting epidoc to Leiden",
   "module": "dist/index.js",
   "main": "dist/index.js",

@@ -1,4 +1,16 @@
-# epidoc-viewer-core
+<div>
+  <img align="left" valign="center" src="ISicily_english_reduced.jpg?raw=true" alt="isicily logo" height=80" >
+  <img align="left" valign="center" src="2258_ox_brand_blue_pos_rect.png?raw=true" alt="oxford logo" height="80"  style="padding-top: 80px" >
+  <img align="left" valign="center" src="LOGO_ERC-FLAG_EU_cropped.jpg?raw=true" alt="erc logo" height=80" >
+</div>
+<br clear="both"/>
+
+<br/>
+
+[![DOI](https://zenodo.org/badge/378974263.svg)](https://zenodo.org/badge/latestdoi/378974263)
+
+
+# epidoc-viewer-react
 
 Exports a react component  for converting epidoc to Leiden: 
 

@@ -12,31 +12,37 @@
 
 # epidoc-viewer-react
 
-Exports a react component  for converting epidoc to Leiden: 
+<div>This project has received funding from the John Fell Fund of the University of Oxford, and from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 885040, “Crossreads”).</div>
 
-LeidenViewer - a react component that will display rendered Leiden when passed epidoc.
+Exports a React component, LeidenViewer, that will display rendered Leiden when passed epidoc.
 
-Relies on the convert function of [epidoc-viewer-core](https://github.com/ISicily/epidoc-viewer-core)
-
-The LeidenViewer uses the convert function under the covers, but you can also use the convert function directly without react.
+Relies on the `convert` function of [epidoc-viewer-core](https://github.com/ISicily/epidoc-viewer-core), but you can also use the `convert` function directly without React.
 
 ## Usage
 
-```npm install @isicily/epidoc-viewer-react```
+```
+npm install @isicily/epidoc-viewer-react
+```
 
 OR
 
-```yarn add @isicily/epidoc-viewer-react```
+```
+yarn add @isicily/epidoc-viewer-react
+```
 
+```
 import {LeidenViewer} from ‘@isicily/epidoc-viewer-core’
+```
 
 then use it somewhere...
 
-```<LeidenViewer 
+```
+<LeidenViewer 
 		tei={tei} 
 		showInterpreted={false} 
 		overridingRules={someRules} 
-/>```
+/>
+```
   
 Where:
 

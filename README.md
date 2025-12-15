@@ -14,6 +14,8 @@
 
 <div>This project has received funding from the John Fell Fund of the University of Oxford, and from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 885040, “Crossreads”).</div>
 
+Built by James Chartrand [ORCID](https://orcid.org/0000-0001-6823-0265), with the collaboration of Jonathan Prag [ORCID](https://orcid.org/0000-0003-3819-8537).
+
 Exports a React component, LeidenViewer, that will display rendered Leiden when passed epidoc.
 
 Relies on the `convert` function of [epidoc-viewer-core](https://github.com/ISicily/epidoc-viewer-core), but you can also use the `convert` function directly without React.
